@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Markdown from "markdown.svelte";
+  import Markdown from "./markdown.svelte";
   import { DiscordDarkTheme, themeString, type DiscordTheme } from "./Theme";
   import { type MarkdownRenderingContext } from "./utils";
 
