@@ -1,4 +1,4 @@
-import Markdown from "markdown.svelte";
+import Markdown from "./markdown.svelte";
 import Message from "./Message.svelte";
 import MessageEmbed from "./MessageEmbed.svelte";
 
